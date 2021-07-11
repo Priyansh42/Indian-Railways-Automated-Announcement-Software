@@ -38,6 +38,8 @@ Announcement is generated in the below three languages:
 
 * And then finally merge that generated text to speech audio files with the trimmed audio files according to our database and name that combined audio file as Announcement_TrainNumber.
 
+* At the last, delete all intermediate seperate audio files to free up the unnecessary space occupied.
+
 ## Demo Video
 
 https://user-images.githubusercontent.com/68781375/125184784-42b5ea00-e23e-11eb-80bf-7809181d3b0b.mp4
