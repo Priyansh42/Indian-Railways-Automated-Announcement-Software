@@ -6,7 +6,7 @@ It is an **automated software** which will generate the Railway Station Announce
 
 ## Announcement Languages 
 
-Announcement is generated in the below languages:
+Announcement is generated in the below three languages:
 
 * Hindi
 
