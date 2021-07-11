@@ -8,11 +8,11 @@ It is an **automated software** which will generate the Railway Station Announce
 
 Announcement is generated in the below three languages:
 
-* Hindi
+* **Hindi**
 
-* English
+* **English**
 
-* Gujarati
+* **Gujarati**
 
 ## Development Environment
 
